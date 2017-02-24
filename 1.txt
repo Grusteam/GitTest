@@ -1,2 +1,3 @@
-str 1
-i want just to try this feature
+1 str 1
+2 i want just to try this feature
+3 so now i think im ready to push my new feature to production
